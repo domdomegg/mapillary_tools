@@ -1,4 +1,4 @@
 gpxpy
 exifread
-Pillow==2.9.0
+Pillow==8.1.1
 python-dateutil
